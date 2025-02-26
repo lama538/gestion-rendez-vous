@@ -16,5 +16,20 @@ namespace gestion_rendez_vous.view
         {
             InitializeComponent();
         }
+
+        private void btn_fermer_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
+        private void btn_supprimer_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void frmRendezVous_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

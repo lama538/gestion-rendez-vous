@@ -85,7 +85,7 @@ namespace gestion_rendez_vous
             // 
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Bookman Old Style", 72F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label5.Location = new System.Drawing.Point(346, 421);
+            this.label5.Location = new System.Drawing.Point(339, 433);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(728, 111);
             this.label5.TabIndex = 76;
@@ -95,7 +95,7 @@ namespace gestion_rendez_vous
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Bookman Old Style", 48F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(560, 162);
+            this.label1.Location = new System.Drawing.Point(527, 170);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(353, 71);
             this.label1.TabIndex = 77;
@@ -105,7 +105,7 @@ namespace gestion_rendez_vous
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Bookman Old Style", 48F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(677, 299);
+            this.label2.Location = new System.Drawing.Point(643, 313);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(152, 71);
             this.label2.TabIndex = 78;

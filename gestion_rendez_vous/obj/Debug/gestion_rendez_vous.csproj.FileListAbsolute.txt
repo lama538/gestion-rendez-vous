@@ -70,4 +70,4 @@ C:\Users\bmd-tech\OneDrive\Bureau\c#\gestion_rendez_vous\gestion_rendez_vous\bin
 C:\Users\bmd-tech\OneDrive\Bureau\c#\gestion_rendez_vous\gestion_rendez_vous\bin\Debug\stdole.dll
 C:\Users\bmd-tech\OneDrive\Bureau\c#\gestion_rendez_vous\gestion_rendez_vous\bin\Debug\CrystalDecisions.Windows.Forms.dll
 C:\Users\bmd-tech\OneDrive\Bureau\c#\gestion_rendez_vous\gestion_rendez_vous\obj\Debug\gestion_rendez_vous.view.impressionticket.resources
-C:\Users\bmd-tech\OneDrive\Bureau\c#\gestion_rendez_vous\gestion_rendez_vous\obj\Debug\gestion_rendez_vous.Migrations.UpdateTableNames.resources
+C:\Users\bmd-tech\OneDrive\Bureau\c#\gestion_rendez_vous\gestion_rendez_vous\obj\Debug\gestion_rendez_vous.Migrations.InitialMigration.resources

@@ -118,10 +118,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Migrations\202502250333438_UpdateTableNames.cs" />
-    <Compile Include="Migrations\202502250333438_UpdateTableNames.Designer.cs">
-      <DependentUpon>202502250333438_UpdateTableNames.cs</DependentUpon>
+    <Compile Include="Migrations\202502251654192_InitialMigration.cs" />
+    <Compile Include="Migrations\202502251654192_InitialMigration.Designer.cs">
+      <DependentUpon>202502251654192_InitialMigration.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="view\Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -134,7 +135,6 @@
     <Compile Include="view\frmMDI.Designer.cs">
       <DependentUpon>frmMDI.cs</DependentUpon>
     </Compile>
-    <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="model\Agenda.cs" />
     <Compile Include="model\bdRvMedicalContext.cs" />
     <Compile Include="model\classReportTicketRv.cs" />
@@ -187,8 +187,8 @@
     <Compile Include="view\frmRendezVous.Designer.cs">
       <DependentUpon>frmRendezVous.cs</DependentUpon>
     </Compile>
-    <EmbeddedResource Include="Migrations\202502250333438_UpdateTableNames.resx">
-      <DependentUpon>202502250333438_UpdateTableNames.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\202502251654192_InitialMigration.resx">
+      <DependentUpon>202502251654192_InitialMigration.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="view\Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
